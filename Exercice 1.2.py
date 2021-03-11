@@ -14,7 +14,6 @@ while a < x:    # to small
 else:    # bravo
         print('bravo')
 
-#TEST
 
 
 
