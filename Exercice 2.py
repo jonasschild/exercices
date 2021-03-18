@@ -20,8 +20,9 @@ print('minimum is:', np.min(prec1))
 print('maximum is:', np.max(prec1))
 print('mean is:', np.mean(prec1))
 
-
+print('median is:', np.median(prec1))
 
 f.close()
 
 #Finished
+
